@@ -2,6 +2,9 @@
 CampusCare est une plateforme solidaire qui permet aux associations étudiantes de créer et gérer leurs propres cagnottes afin de financer des actions de distribution alimentaire. Elle connecte les campus universitaires aux quartiers environnants pour mobiliser donateurs, habitants et acteurs locaux autour de la lutte contre la précarité étudiante.
 ## Objectifs
 
+# Demo
+https://johntrumanburbank-afk.github.io/CampusCare/
+
 ![Interface de l’application CERCLE](assets/landing_preview.png)
 
 - Soutenir les associations étudiantes dans leurs actions solidaires  
